@@ -1,13 +1,10 @@
-# Aircraft screensaver kata
+# Aircraft screensaver 
 
-This is an exercise to learn unit testing with Python. It is also a good exercise
+This is my version of an exercise to learn unit testing with Python. It is also a good exercise
 to learn about design principles and TDD.
 
-If you like this workshop, please visit our website and subscribe to our newsletter:
-
+If you like this you can see the original at:
 * [Leanmind.es](https://leanmind.es)
-
-We aslso recommend our online training, [testing sostenible](https://testingsostenible.com)
 
 # Python version
 
@@ -25,5 +22,4 @@ Move to the root folder of this repo and type:
 
 `pip install -r requirements.txt`
 
-# screensaver_aircrafts
-# screensaver_aircrafts
+
